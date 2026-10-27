@@ -8,7 +8,7 @@ menu cheat for the escapists 2, made with bepinex. press insert in game and the 
 2. run it, it finds the game through steam by itself. if not, pick the folder with `TheEscapists2.exe`
 3. press install, start the game, press insert
 
-bepinex is built into the installer, so you don't need to download anything else. the remove button deletes only the plugin and leaves bepinex in place.
+⚠ bepinex is built into the installer, so you don't need to download anything else. the remove button deletes only the plugin and leaves bepinex in place. ⚠
 
 ## features
 
@@ -45,6 +45,6 @@ plugin targets net35, installer targets net48 and needs windows.
 
 ## notes
 
-- tested only on the steam version, 32 bit
+- worked only on the steam version, 32 bit
 - use at your own risk, better not in online lobbies
 - if something broke after a game update, open an issue
