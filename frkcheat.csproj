@@ -6,10 +6,6 @@
     <gamedir>E:\SteamLibrary\steamapps\common\The Escapists 2</gamedir>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Remove="tests/**" />
-    <Compile Remove="installer/**" />
-  </ItemGroup>
-  <ItemGroup>
     <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
     <Reference Include="BepInEx">
       <HintPath>$(gamedir)\BepInEx\core\BepInEx.dll</HintPath>
