@@ -3,7 +3,7 @@
     <TargetFramework>net35</TargetFramework>
     <AssemblyName>frkcheat</AssemblyName>
     <LangVersion>9.0</LangVersion>
-    <gamedir>E:\SteamLibrary\steamapps\common\The Escapists 2</gamedir>
+    <gamedir>your path</gamedir>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.3" PrivateAssets="all" />
